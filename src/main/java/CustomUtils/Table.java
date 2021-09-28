@@ -3,6 +3,11 @@ package CustomUtils;
 import java.util.ArrayList;
 import java.util.Arrays;
 
+/*
+ *  UCF COP3330 Fall 2021 Assignment 2 Solution
+ *  Copyright 2021 Dave Gershman
+ */
+
 public class Table {
     int columns;
     int rows = 0;
